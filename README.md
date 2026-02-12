@@ -15,6 +15,8 @@ and build impactful projects 🚀
 ### 🌐 Socials:
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shivam-bhardwaj-862394326)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Bhardwaj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivam-bhardwaj-862394326)
+
 
 
 
