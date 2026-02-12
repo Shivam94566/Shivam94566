@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋 I am Shivam B
+## Hi there 👋 I am Shivam Bhardwaj
 
 
 Aspiring software developer focused on DSA and AI/ML. 
