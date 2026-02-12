@@ -3,7 +3,7 @@
 
 
 Aspiring software developer focused on DSA and AI/ML. 
-Working with Python and Java to strengthen problem-solving skills 
+Working with Python and C++ to strengthen problem-solving skills 
 and build impactful projects 🚀
 
 ### 🌐 Socials:
