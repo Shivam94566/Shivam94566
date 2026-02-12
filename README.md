@@ -1,15 +1,20 @@
 # 💫 About Me:
 ## Hi there 👋 I am Shivam Bhardwaj
 
-
 Aspiring software developer focused on DSA and AI/ML. 
 Working with Python and C++ to strengthen problem-solving skills 
 and build impactful projects 🚀
 
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Problem Solving (LeetCode)
+- Machine Learning Basics
+- Full Stack Web Development
+
+
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/shivam-bhardwaj-862394326)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shivam-bhardwaj-862394326)
 
 
 
