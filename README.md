@@ -8,7 +8,7 @@ and build impactful projects 🚀
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/shivam-bhardwaj-862394326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/shivam-bhardwaj-862394326)
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
 
