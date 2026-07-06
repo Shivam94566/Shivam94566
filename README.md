@@ -1,18 +1,32 @@
-<h1 align="center">Hi there 👋, I'm Shivam Bhardwaj</h1>
-<h3 align="center">Aspiring Software Developer | DSA Enthusiast | AI/ML Explorer</h3>
+<h1 align="left">Hi there 👋, I'm Shivam Bhardwaj</h1>
+<h3 align="left">Aspiring Software Developer | DSA Enthusiast | AI/ML Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Solving+DSA+Problems+Daily;Learning+Machine+Learning;Building+Full+Stack+Projects;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Solving+DSA+Problems+Daily;Learning+Machine+Learning;Building+Full+Stack+Projects;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
 ### 🚀 About Me
+
 - 🔭 Focused on strengthening **Data Structures & Algorithms** using **Python** and **C++**
-- 🌱 Currently learning **Machine Learning** and **Full Stack Web Development**
-- 💡 Passionate about building impactful, real-world projects
+- 🌱 Currently learning **Machine Learning**, **Deep Learning basics**, and **Full Stack Web Development**
+- 💻 Practicing problem-solving daily on **LeetCode** to build strong fundamentals
+- 🧠 Interested in how **AI/ML models** work under the hood — from math to implementation
+- 🛠️ Building small projects to apply what I learn instead of just tutorials
+- 💡 Long-term goal: become a strong backend/ML engineer who can build real, scalable systems
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/shivam-bhardwaj-862394326)
 - 🌐 Check out my [Portfolio](https://my-portfolio-shivam.vercel.app/)
+
+---
+
+### 🌱 Currently Learning & Focus Areas
+
+| Area | What I'm Doing |
+|---|---|
+| **DSA** | Solving arrays, linked lists, trees, graphs, DP problems on LeetCode |
+| **Python** | Writing clean, efficient code for problem solving and ML scripts |
+| **C++** | Using it for competitive programming and performance-heavy logic |
+| **Machine Learning** | Learning core concepts — regression, classification, model evaluation |
+| **Full Stack Dev** | Building projects using HTML, CSS, JS and exploring backend basics |
 
 ---
 
@@ -35,38 +49,37 @@
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam94566&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam94566&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Shivam94566&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam94566&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" align="left" />
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shivam94566&theme=dark&hide_border=false" width="60%" />
-</p>
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam94566&theme=react-dark&hide_border=false" width="90%" />
-</p>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shivam94566&theme=dark&hide_border=false" width="60%" align="left" />
+
+<br clear="both">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam94566&theme=react-dark&hide_border=false" width="90%" align="left" />
+
+<br clear="both">
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-bhardwaj-862394326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://my-portfolio-shivam.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/shivam-bhardwaj-862394326" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://my-portfolio-shivam.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
-<p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
+<i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
