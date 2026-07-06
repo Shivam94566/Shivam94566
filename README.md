@@ -32,22 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam94566&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" height="165" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam94566&layout=compact&theme=dark&hide_border=false&count_private=true&include_all_commits=true" height="165" align="left" />
-
-<br clear="both">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shivam94566&theme=dark&hide_border=false" width="60%" align="left" />
-
-<br clear="both">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivam94566&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&row=1" align="left" />
-
-<br clear="both">
 
 ### 📈 Contribution Activity
 
