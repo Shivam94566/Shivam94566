@@ -3,8 +3,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Solving+DSA+Problems+Daily;Learning+Machine+Learning;Building+Full+Stack+Projects;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shivam94566&color=2E9EF7&style=flat)
-
 ---
 
 ### 🚀 About Me
@@ -67,21 +65,7 @@
 
 <br clear="both">
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivam94566&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&row=1" align="left" />
-
-<br clear="both">
-
-### 📈 Contribution Graph
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam94566&theme=react-dark&hide_border=false" width="90%" align="left" />
-
-<br clear="both">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Shivam94566/Shivam94566/output/github-contribution-grid-snake-dark.svg" width="90%" align="left" />
 
 <br clear="both">
 
