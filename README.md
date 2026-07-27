@@ -33,8 +33,9 @@
 ---
 
 ### 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=Shivam94566&theme=react&hide_border=true" width="90%" align="left" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivam94566&theme=github-dark&hide_border=true" />
+</p>
 
 
 <br clear="both">
